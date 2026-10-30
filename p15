@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Día de Muertos</title>
+</head>
+<body>
+
+    <header>
+        <h1>Día de Muertos - Tradición Mexicana</h1>
+        <p>Una celebración a la vida y a la muerte</p>
+    </header>
+
+    <nav>
+        <a href="#que-es">¿Qué es?</a> |
+        <a href="#ofrenda">La ofrenda</a> |
+        <a href="#simbolos">Símbolos y comida</a> |
+        <a href="#historia">Historia</a> |
+        <a href="#catrina">Catrina y calaveritas</a>
+    </nav>
+
+    <main>
+        <section>
+            <h2 id="que-es">1. ¿Qué es el Día de Muertos?</h2>
+            <p>Es una celebración mexicana reconocida por la UNESCO como Patrimonio Cultural Inmaterial desde 2008. Se festeja el regreso temporal de las almas de los difuntos para convivir con sus familias.</p>
+            <p><strong>Importancia:</strong> Es la tradición más representativa de México, mezcla la visión prehispánica y católica.</p>
+            <p><strong>Fechas:</strong> 27 octubre mascotas, 28 muertes trágicas, 1 noviembre niños, 2 noviembre adultos.</p>
+        </section>
+
+        <section>
+            <h2 id="ofrenda">2. La ofrenda y sus elementos</h2>
+            <p>El altar que se pone para guiar a las ánimas de regreso a casa. Cada cosa tiene significado:</p>
+            <ul>
+                <li>Agua: para la sed del viajero</li>
+                <li>Sal: purifica</li>
+                <li>Velas y veladoras: la luz guía el camino</li>
+                <li>Copal: limpia y guía con el aroma</li>
+                <li>Cempasúchil: guía con su color y olor</li>
+                <li>Foto del difunto: a quien se dedica</li>
+                <li>Comida y pan de muerto: lo que le gustaba en vida</li>
+                <li>Papel picado: representa el viento</li>
+                <li>Calaveritas de azúcar: la muerte presente</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2 id="simbolos">3. Símbolos y gastronomía tradicional</h2>
+            <p><strong>Símbolos:</strong> Flor de cempasúchil, copal, papel picado y el xoloitzcuintli, el perro que ayuda a cruzar el Mictlán.</p>
+            <p><strong>Comida:</strong> Pan de muerto con sabor a azahar, la bolita del centro es el cráneo y las 4 canillas son los huesos. Calaveras de azúcar y chocolate, mole, tamales y atole.</p>
+        </section>
+
+        <section>
+            <h2 id="historia">4. Historia y origen</h2>
+            <p>Los mexicas y mayas ya celebraban a la muerte. Creían que al morir se iba al Mictlán, gobernado por Mictlantecuhtli y Mictecacíhuatl. Con la conquista, los españoles trajeron el Día de Todos los Santos y se mezclaron las dos tradiciones.</p>
+            <p>De ser un ritual de un mes en el calendario azteca, pasó a celebrarse el 1 y 2 de noviembre.</p>
+        </section>
+
+        <section>
+            <h2 id="catrina">5. Calaveritas literarias y La Catrina</h2>
+            <p><strong>Calaveritas literarias:</strong> Son poemas cortos, en verso y burlones. Se escriben como si la persona ya estuviera muerta para hacer sátira.</p>
+            <p><strong>La Catrina:</strong> La dama elegante de la muerte. La creó José Guadalupe Posada en 1912 como "Calavera Catrina" para burlarse de los ricos que negaban ser mexicanos. Diego Rivera la hizo famosa con su sombrero.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Práctica 15 - </p>
+    </footer>
+
+</body>
+</html>
